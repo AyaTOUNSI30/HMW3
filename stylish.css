@@ -1,0 +1,162 @@
+#roro {
+  background-color: white;
+  border-radius: 15px;
+  height: 100px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -210px;
+  margin-left: -315px;
+}
+
+
+#roro2 {
+  background-color: white;
+  border-radius: 15px;
+  height: 360px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -140px;
+  margin-left: -315px;
+}
+
+
+#colcol {
+  background-color: RGB(85, 180, 176);
+  height: 315px;
+  width: 600px;
+  margin: 15px;
+  top: 50%;
+  left: 50%;
+  margin-top: 30px;
+
+}
+
+#colcol2 {
+  background-color: RGB(85, 180, 176);
+  height: 70px;
+  width: 600px;
+  text-align: center;
+  margin: 15px;
+  top: 50%;
+  left: 50%;
+  margin-top: 15px;
+
+
+}
+
+
+
+.button {
+  background-color: RGB(85, 180, 176);
+  border: none;
+  color: RGB(85, 180, 176);
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+  font-size: 16px;
+  margin: 2px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: rgb(185, 217, 221);
+  color: #1846e0;
+}
+
+
+
+.button:hover {
+  background-color: #1846e0;
+  color: white;
+}
+
+
+.button2 {
+  background-color: RGB(85, 180, 176);
+  border: none;
+  color: RGB(85, 180, 176);
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+  font-size: 18px;
+  margin: 2px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: rgb(185, 217, 221);
+  color: #1846e0;
+}
+
+
+
+.button2:hover {
+  background-color: #1846e0;
+  color: white;
+}
+
+
+.button3 {
+  background-color: RGB(85, 180, 176);
+  border: none;
+  color: RGB(85, 180, 176);
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+  font-size: 14px;
+  margin: 2px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: rgb(185, 217, 221);
+  color: #1846e0;
+}
+
+
+
+.button3:hover {
+  background-color: #1846e0;
+  color: white;
+}
+
+.button4 {
+  background-color: RGB(85, 180, 176);
+  border: none;
+  color: RGB(85, 180, 176);
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+  font-size: 18px;
+  margin: 2px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #1846e0;
+  color: rgb(185, 217, 221);
+}
+
+
+
+.button4:hover {
+  background-color: rgb(185, 217, 221);
+  color: white;
+}
+
+#add {
+  height: 50px;
+  width: 570px;
+  border: none;
+  margin: 10px 2px;
+  border-radius: 12px;
+  position: relative;
+  left: 10px;
+  top: 2px;
+  height: 35px;
+  color: rgb(224, 55, 55);
+  font-size: 30px;
+  text-align: right;
+}
